@@ -10,5 +10,4 @@ Create a google email
 https://accounts.google.com/SignUp?hl=en
 
 Allow less secure apps because we are not using oAuth 2
-https://myaccount.google.com/u/3/lesssecureapps?pageId=none
-
+https://www.google.com/settings/security/lesssecureapps
