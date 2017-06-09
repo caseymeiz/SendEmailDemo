@@ -1,4 +1,4 @@
-#Apache Email Demo
+### Apache Email Demo
 
 Libraries used
 - [javax.mail](https://mvnrepository.com/artifact/javax.mail/mail/1.5.0-b01)
